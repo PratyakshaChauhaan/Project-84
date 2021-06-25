@@ -40,7 +40,7 @@ function uploadcar1()
 }
 function uploadcar2()
 {
-  ctx.drawImage(car2_imgTag, car2_x,  car2_y, car2_width, car2.car2_height);
+  ctx.drawImage(car2_imgTag, car2_x,  car2_y, car2_width, car2_height);
 }
 window.addEventListener("keydown", my_keydown);
 
